@@ -13,6 +13,7 @@ class Category
         $this->setDescription($_description);
         $this->setFurLength($_furLength);
         $this->setSize($_size);
+        sd
     }
 
     // Getter e Setter name 
